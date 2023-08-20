@@ -1,6 +1,7 @@
 <h1 align="center"> <span style="color:green">System.out.println(</span>
 "Hello, world! 👋 I'm Phillip Spencer!"<span style="color:green">)</span> </h1>
-<h3 align="center"I'm driven by challenge and fueled by creativity. With the heart of an artist, I paint with ones and zeros, channeling my passion into Backend Development. A software engineer by day and a Blade Runner by night, I turn coffee into code, chasing down bugs like replicants. The neon glow of cyberpunk dreams keeps me inspired, as I craft digital symphonies with ones and zeros. Are you ready to join my tech-noir escapade?</h3>!
+<h3 align="center"I'm driven by challenge and fueled by creativity. With the heart of an artist, I paint with ones and zeros, channeling my passion into Backend Development. A software engineer by day and a Blade Runner by night, I turn coffee into code, chasing down bugs like replicants. The neon glow of cyberpunk dreams keeps me inspired, as I craft digital symphonies with ones and zeros. Are you ready to join my tech-noir escapade?</h3>
+
 <img align="right" alt="coding" width="400" src="https://github.com/pas377/Pas377/assets/122049391/28e80175-ac25-4abc-a7c5-bd3ca72c1a62">
 
 
