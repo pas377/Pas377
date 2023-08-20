@@ -1,5 +1,10 @@
-<h1 align="center"> <span style="color:green">System.out.println(</span>
-"Hello, world! 👋 I'm Phillip Spencer!"<span style="color:green">)</span> </h1>
+ <style>
+            h2 {
+                color: green;
+            }
+            </style>
+<h2 align="center"> System.out.println(
+<h1> "Hello, world! 👋 I'm Phillip Spencer!" <h2>)</h2></h1>
 <h3 align="center">I'm driven by challenge and fueled by creativity. With the heart of an artist, I paint with ones and zeros, channeling my passion into Backend Development. A software engineer by day and a Blade Runner by night, I turn coffee into code, chasing down bugs like replicants. The neon glow of cyberpunk dreams keeps me inspired, as I craft digital symphonies with ones and zeros. Are you ready to join my tech-noir escapade?</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/pas377/Pas377/assets/122049391/80060d80-1817-4bc2-ae1c-839eb2835998">
 
