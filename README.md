@@ -1,5 +1,5 @@
 <h2 align="center"> System.out.println("Hello, world! 👋 I'm Phillip Spencer!") </h2>
-<h3 align="center">I'm driven by challenge and fueled by creativity. An artist's heart beats within, but I paint with ones and zeros, channeling my passion into Backend Development. Backend developer by day, Blade Runner by night; I turn coffee into code, chasing down bugs like  replicants. While I craft digital symphonies with ones and zeros, the neon glow of cyberpunk dreams keeps me inspired. Ready to join my tech-noir escapade?</h3>
+<h3 align="center"I'm driven by challenge and fueled by creativity. With the heart of an artist, I paint with ones and zeros, channeling my passion into Backend Development. A software engineer by day and a Blade Runner by night, I turn coffee into code, chasing down bugs like replicants. The neon glow of cyberpunk dreams keeps me inspired, as I craft digital symphonies with ones and zeros. Are you ready to join my tech-noir escapade?</h3>
 
 - 🔭 I’m currently working on [QuestLogIrl](https://www.questlogirl.com)
 
