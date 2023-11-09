@@ -1,5 +1,5 @@
 <h1 align="center">System.out.println("Hello, world! 👋 I'm Phillip Spencer!")</h1>
-<h3 align="center">I'm driven by challenge and fueled by creativity. With the heart of an artist, I paint with ones and zeros, channeling my passion into Backend Development. Starting with Java as my first programming language has provided me with a solid foundation for learning others. A software engineer by day and a Blade Runner by night, I turn coffee into code, chasing down bugs like replicants. The neon glow of cyberpunk dreams keeps me inspired, as I craft digital symphonies with ones and zeros.</h3>
+<h3 align="center">I'm driven by challenge and fueled by creativity. With the heart of an artist, I paint with ones and zeros, channeling my passion into Backend Development. Starting with Java as my first programming language has provided me with a solid foundation for learning others. A software engineer by day and a Blade Runner by night, I turn coffee into code, chasing down bugs like replicants. The neon glow of cyberpunk dreams keeps me inspired, as I craft digital symphonies with ones and zeros.</h3> 
 <img align="right" alt="coding" width="400" src="https://github.com/pas377/Pas377/assets/122049391/80060d80-1817-4bc2-ae1c-839eb2835998">
 
 - 🔭 I’m currently working on [QuestLogIrl](https://www.questlogirl.com)
