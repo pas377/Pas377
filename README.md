@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **noSQL**
 
-- 👯 I’m looking to join in **a corporate adventure**
+- 👯 I’m looking to embark on **a corporate adventure**
 
 - 👨‍💻 All of my projects are available at [https://euphonious-dusk-553306.netlify.app/projects](https://euphonious-dusk-553306.netlify.app/projects)
 
